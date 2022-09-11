@@ -24,8 +24,9 @@ rpc.on( 'ready', ()=>{
 		 	label: 'Button 2',
 		 	url: 'https://youtube.com/'
 		 }]
-	});
 */
+	});
+
 	console.log('RPC is running...');
 });
 
